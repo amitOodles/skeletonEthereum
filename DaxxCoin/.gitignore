@@ -1,0 +1,17 @@
+node_modules/
+
+###########################
+# Ignoring backup files produced by git mergetool #
+*.orig
+
+
+###########################
+# OS generated files #
+.DS_Store
+.DS_Store?
+
+
+###########################
+# Logs #
+*.log
+*.out
